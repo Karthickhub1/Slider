@@ -1,2 +1,2 @@
-# Slider-and-D-L-mode
+# Slider-Dark.Light-mode
 JavaScript
